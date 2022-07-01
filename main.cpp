@@ -4,6 +4,7 @@ int add(int num1, int num2);
 int devide(int num1, int num2);
 int main() {
   std::cout << "hello" << std::endl;
+  std::cout << "hello" << std::endl;
 
   std::cout << add(5, 4) << std::endl;
 
